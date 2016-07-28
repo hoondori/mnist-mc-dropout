@@ -18,16 +18,18 @@ Run/theano settings: ```THEANO_FLAGS='mode=FAST_RUN, device=gpu, floatX=float32'
 
 ## Training details...
 
-<img src="errors.jpg">
+<img src="./output/errors.jpg">
 
 ## Interesting cases...
 
-<img src="index_8.jpg">
+<img src="./output/index_8.jpg">
 
-<img src="index_15.jpg">
+<img src="./output/index_15.jpg">
 
-<img src="index_18.jpg">
+<img src="./output/index_18.jpg">
 
-<img src="index_20.jpg">
+<img src="./output/index_20.jpg">
 
-<img src="index_35.jpg">
+<img src="./output/index_35.jpg">
+
+<img src="./output/index_36.jpg">
