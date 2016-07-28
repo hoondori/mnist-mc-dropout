@@ -1,7 +1,7 @@
 # mnist-mc-dropout
 
 
-### Description
+# Description
 
 Writing Python (Lasagne + Theano library) code for respresenting model uncertainty in deep learning. Based on the following:
 
@@ -14,7 +14,7 @@ The main implementation is in ```mnist_mc_dropout.py``` which uses helper functi
 Run/theano settings: ```THEANO_FLAGS='mode=FAST_RUN, device=gpu, floatX=float32' python mnist_mc_dropout.py```
 
 
-### (Some) Results:
+# (Some) Results:
 
 ## Training details...
 
