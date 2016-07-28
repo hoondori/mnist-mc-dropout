@@ -22,20 +22,12 @@ Run/theano settings: ```THEANO_FLAGS='mode=FAST_RUN, device=gpu, floatX=float32'
 
 ## Interesting cases...
 
-<img src="./output/index_8.jpg" height="200" width="400">
+<img src="./output/index_8.jpg" height="200" width="400"> <img src="./output/index_15.jpg" height="200" width="400">
 
-<img src="./output/index_15.jpg" height="200" width="400">
+<img src="./output/index_18.jpg" height="200" width="400"> <img src="./output/index_20.jpg" height="200" width="400">
 
-<img src="./output/index_18.jpg" height="200" width="400">
+<img src="./output/index_35.jpg" height="200" width="400"> <img src="./output/index_36.jpg" height="200" width="400">
 
-<img src="./output/index_20.jpg" height="200" width="400">
-
-<img src="./output/index_35.jpg" height="200" width="400">
-
-<img src="./output/index_36.jpg" height="200" width="400">
-
-<img src="./output/index_62.jpg" height="200" width="400">
-
-<img src="./output/index_65.jpg" height="200" width="400">
+<img src="./output/index_62.jpg" height="200" width="400"> <img src="./output/index_65.jpg" height="200" width="400">
 
 <img src="./output/index_73.jpg" height="200" width="400">
