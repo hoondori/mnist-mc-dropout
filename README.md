@@ -30,4 +30,6 @@ Run/theano settings: ```THEANO_FLAGS='mode=FAST_RUN, device=gpu, floatX=float32'
 
 <img src="./output/index_62.jpg" height="200" width="400"> <img src="./output/index_65.jpg" height="200" width="400">
 
-<img src="./output/index_73.jpg" height="200" width="400">
+<img src="./output/index_73.jpg" height="200" width="400"> <img src="./output/index_78.jpg" height="200" width="400">
+
+<img src="./output/index_92.jpg" height="200" width="400"> <img src="./output/index_95.jpg" height="200" width="400">
